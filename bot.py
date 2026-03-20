@@ -87,7 +87,7 @@ async def _start(event):
             f"**Enjoy Ongoing Anime's Best Encode 24/7 🫡**",
             buttons=[
                 [
-                    Button.url("👨‍💻 DEV", url="t.me/kaif_00z"),
+                    Button.url("👨‍💻 DEV", url="t.me/anujedits76"),
                     Button.url(
                         "💖 OPEN SOURCE",
                         url="https://github.com/kaif-00z/AutoAnimeBot/",
