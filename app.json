@@ -1,10 +1,10 @@
 {
-    "name": "AutoAnimeBot",
+    "name": "Anime Bot",
     "description": "Upload Ongoing Animes In Negligible Size... Automatically",
-    "logo": "https://graph.org/file/ad1b25807b81cdf1dff65.jpg",
+    "logo": "https://i.ibb.co/WpKRVMKy/7168219724-28094.jpg",
     "keywords": ["Telegram","python", "anime","Compressor","Encoder", "ongoing"],
     "repository": "https://github.com/kaif-00z/AutoAnimeBot",
-    "success_url": "https://t.me/BotsBakery",
+    "success_url": "https://t.me/anujedits76",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -84,7 +84,7 @@
 
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
-            "value": "https://graph.org/file/ad1b25807b81cdf1dff65.jpg",
+            "value": "https://i.ibb.co/WpKRVMKy/7168219724-28094.jpg",
             "required": false
         },
         "CRF": {
